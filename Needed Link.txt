@@ -1,0 +1,2 @@
+1) For Scrolling element:
+		https://www.automationtestinghub.com/uiselector-android/
